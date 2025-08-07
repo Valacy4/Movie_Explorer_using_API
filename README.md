@@ -25,14 +25,6 @@ Movie Explorer is a sleek, React-based web application that allows users to sign
 
 ---
 
-## 📸 Screenshots
-
-| Signup Page | Login Page |
-|-------------|------------|
-| ![Signup](./screenshots/signup.png) | ![Login](./screenshots/login.png) |
-
----
-
 ## 📦 Installation
 
 ```bash
